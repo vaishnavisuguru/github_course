@@ -1,0 +1,2 @@
+This text file is related to logout feature
+Have to logout after 5 minutes of inactivity
