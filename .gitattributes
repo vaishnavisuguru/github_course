@@ -1,1 +1,2 @@
 feature2.txt filter=lfs diff=lfs merge=lfs -text
+demo.txt filter=lfs diff=lfs merge=lfs -text
